@@ -1,0 +1,3 @@
+D:/Git_Repo/CS2-Calculator-wael2/build/CMakeFiles/calculator.dir
+D:/Git_Repo/CS2-Calculator-wael2/build/CMakeFiles/edit_cache.dir
+D:/Git_Repo/CS2-Calculator-wael2/build/CMakeFiles/rebuild_cache.dir
